@@ -1,0 +1,21 @@
+{
+  "name": "electron-with-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "output/index.js",
+  "scripts": {
+    "transpile": "tsc",
+    "transpile:watch": "tsc --watch",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.9",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "firebase": "^8.6.2"
+  }
+}

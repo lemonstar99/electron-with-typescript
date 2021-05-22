@@ -1,0 +1,4 @@
+.DS_Store
+
+# ignore all files in this directory
+node_modules/
